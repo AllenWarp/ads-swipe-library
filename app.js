@@ -124,3 +124,5 @@ document.getElementById('list-view-btn').addEventListener('click', () => switchV
 
 // Initial load
 switchView('gallery');
+
+<script src="app.js"></script>
